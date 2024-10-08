@@ -16,7 +16,6 @@ $(document).ready(function(){
     });
 });
 
-// protfolio filters
 $(window).on("load", function() {
     var t = $(".portfolio-container");
     t.isotope({
